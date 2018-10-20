@@ -1,0 +1,10 @@
+.ProjectItem {
+  display: inline-block;
+  .item {
+    width: 200px;
+    height: 200px;
+    background: green;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+}

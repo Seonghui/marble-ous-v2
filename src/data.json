@@ -1,0 +1,221 @@
+{
+  "total": 42,
+  "list": [
+    {
+      "id": 0,
+      "titleKr": "가사도우미",
+      "titleEng": "",
+      "descKr": "가사도우미는 한글 타이포그래피 기반의 인터랙티브한 가사 악보를 활용하여 악보를 잘 이해하지 못하는 주부 노래교실의 주부 수강생들이 좀 더 쉽고 흥미롭게 노래를 익힐 수 있도록 돕는 모바일 어플리케이션이다. 가사도우미만의 새로운 악보 체계는 오선보와 정간보의 표현법을 따라 음정과 박자의 표기를 재 정의하고 사용자의 목소리에 따라 변화하는 노래 가사의 장평, 크기와 굵기, 흔들림 등으로 각각 음의 길이, 소리의 크기, 바이브레이션을 표현한다. 또한 주부 노래교실의 학습 방법을 착안한 악보 배우기, 노래 배우기, 콘테스트, 순위보기 등 총 4단계의 과정을 통해 보다 체계적인 노래 학습과 더불어 사용자의 능동적인 감정 표현을 돕는다. 이렇듯 가사도우미 어플리케이션은 기존의 악보에 대한 배경지식이 없는 사용자일지라도 거부감 없이 쉽고 재밌게 노래를 따라 부를 수 있으며 장소의 제약 없이 노래방의 경험을 줄 수 있는 유용한 모바일 콘텐츠이다. 이제 가사도우미로 쉽고 재밌게 노래를 불러보자!",
+      "descEng": "Lyrics-helper is a mobile application to help that the housewives who can't read music in singing class sing a song easier and more interesting, using the interactive music of lyrics based on Hangeul typography. Letters in our music of lyrics is keep changing in accordance with the user's voice. Jangpyeong of letters is to express the length of a musical note, size of letters is to express volume of the sounds and swinging of the letters is to express vibration. In this way, it is a useful mobile contents that people who don't know traditional music can sing without offending, experience to go karaoke without restriction of a place. Now, let's sing a song easily and funny with Lyrics-helper!",
+      "vimeoUrl": "",
+      "coX": 3,
+      "coY": 2,
+      "type1": "experimental",
+      "type2": "fun",
+      "platform": "10000",
+      "designer": [
+        {
+          "nameKr": "이정미",
+          "nameEng": "Lee Jeongmi",
+          "email": "wjdal939@gmail.com",
+          "website": "behance.net/jeongmi",
+          "comment": "졸업 작품을 만들면서 경험했던 시행착오들은 어디서도 겪어보지 못할 소중한 기억이고 순간이 될 것 같습니다. 많은 추억을 담은 4년 동안의 대학생활을 드디어 마무리합니다."
+        },
+        {
+          "nameKr": "최현정",
+          "nameEng": "Choi Hyunjung",
+          "email": "chhhoi423@gmail.com",
+          "website": "behance.net/chhhoi",
+          "comment": "가사도우미라는 즐거운 작품으로, 대학생활의 소중한 추억을 만든 친구들과 함께 마무리 할 수 있어 행복합니다. 그리고 언제나 멀리서 응원해준 엄마, 아빠, 동생 감사합니다."
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "titleKr": "뉴스와 시",
+      "titleEng": "",
+      "descKr": "하나, 뉴스는 외부의 언어다. 항상 주위에 혼재돼 있고 풍경으로서 기능한다. 존재를 인식하지만, 사유 되어 지지 않고 외부로 흘러나간다. 둘, 시는 내부의 언어다. 지각과 사유를 통해 감각을 자극하고 내면의 경험을 끌어낸다. 두 언어의 구성은 어휘, 문법, 뉘앙스 등 많은 부분에서 차이가 있다. 관객은 놓여있는 의자에 앉아 프로젝터를 통해 쏘아진 인터넷 뉴스를 보며 주변의 일들을 목도한다. 그리고 뉴스의 언어로 시를 써 우리 주변의 일들, 스쳐 지나간 무언가를 사유화할 기회를 가진다. 완성된 시를 낭독하고 그에 따라 시는 시각화 된다. 시각시를 손으로 만지고 녹음된 소리를 들으며 느낌으로써 언어를 감각으로 확장해 나간다. 시각시들은 트위터 계정 @NewsAndPoem에서 다시 확인할 수 있다.",
+      "descEng": "One, news is an external language. It is always mixed around and functions as a landscape. It recognizes existence, but flows out without thinking. Two, poetry is the language inside. Through perception and thought, it stimulates the senses and draws inner experiences. The composition of the two languages ​​differs in many respects such as vocabulary, grammar, and nuances. The audience sees the Internet news shot through the projector sitting on a chair and watches the surrounding things. And as a language of news, we have the opportunity to privatize poetry, things around us, something that has passed. Read the completed poem and visualize it accordingly. Touching the visual poem with hands, listening to the recorded sound, and expanding the language to the senses by feeling. You can check back at @NewsAndPoem on your Twitter account.",
+      "vimeoUrl": "",
+      "coX": 1,
+      "coY": 8,
+      "type1": "experimental",
+      "type2": "fun",
+      "platform": "00100",
+      "designer": [
+        {
+          "nameKr": "김동규",
+          "nameEng": "Kim Donggyu",
+          "email": "b393010@gmail.com",
+          "website": "",
+          "comment": "지나쳤던 것들을 돌아볼수 있는 계기가 되길"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titleKr": "다락",
+      "titleEng": "",
+      "descKr": "'차를 즐기다'라는 의미의 모던 찻집 다락의 브랜딩 및 홍보 프로젝트이다. 기존의 찻집들은 올드하고 지루한 이미지였지만 다락은 남녀노소 누구나 즐길 수 있는 모던하고 트랜디한 찻집이다. 찻잔의 모습을 형상화하여 로고를 디자인하였고, 차의 주요 재료들의 형태로 패턴을 제작하였다. 만들어진 로고와 패턴을 이용하여 컵홀더, 진동벨, 포스터, 스티커 등을 제작하였고, 다락만의 메뉴들을 소개하는 모션그래픽 홍보영상을 만들었다. 영상은 각 차의 효능과 관련된 오브젝트들과 차의 맛과 향을 떠올리게하는 색감으로 디자인되었다. 프로잭션 맵핑을 이용하여 컵에서 오브젝트들이 나오는 것 처럼 보이게 하였다. 이 영상 및 프로잭션 맵핑 작품은 매장에 설치되어 메뉴가 생소한 방문객들을 위해 틀어질 예정이며 아이패드 메뉴판에서 메뉴를 선택시 해당 메뉴의 소개 영상이 틀어지는 인터랙션 설치물이다.",
+      "descEng": "Darak' is a modern tea house which means 'Enjoy the tea.' I did brand design and made menu-promo movies for it. I designed the logo with a shape of a cup. And made many products like cup holders, posters, stickers with that logo and patterns. I also made motiongraphic videos for introducing Darak's menu. It will be played with a projector at the cafe for customers who are not familiar with the menus.",
+      "vimeoUrl": "https://player.vimeo.com/video/190143067?api=1&player_id=player_1",
+      "coX": 3,
+      "coY": 4,
+      "type1": "practical",
+      "type2": "fun",
+      "platform": "00010",
+      "designer": [
+        {
+          "nameKr": "김성민",
+          "nameEng": "Kim Sungmin",
+          "email": "ksm9927@naver.com",
+          "website": "behance.net/ksm1992",
+          "comment": "학교생활만큼 우여곡절이 많은 졸업작품이었다.시간이 여의치 않았고, 혼자 감당해야 했기에 결과물에 서두른 티가 나는 부분들이 자꾸 보여 아쉬움이 많이 남는다. 그래도 버텨준 내 끈기와 응원해준 친구들에 감사하다."
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titleKr": "다른 그러나 같은",
+      "titleEng": "",
+      "descKr": "같은 것을 보더라도 사실 우리는 각자 다른 것을 보고 있다. 하지만 우리가 보고 있는 것은 결국 다른 것이 아닌 다 그 같은 것이다. 이러한 다른, 다양한 시선을 이 작품을 통해 함께 공유하여 사람들이 각자 다르게 보고 인식하는 것을 경험하게 해준다. 그래서 우리는 다른 세 시점을 카메라의 높이와 각도에 대입하고 다른 시각을 디스플레이의 형태와 배열 그리고 색채로 시각화하여 표현하였다. 필터 효과는 색맹과 그에 따라 파생된 색, 잔상, 줌 등을 사용하였다. 같은 공간에서 작품을 바라보는 사람의 수가 많아질수록 스크린이 다른 시각으로 그만큼 나뉘고 변화한다. 디스플레이는 사람이 전체와 부분을 보는 관점을 시각화하여 다양한 프레임으로 구성하였다.",
+      "descEng": "We see the world in many different views, so when we recognize something to be different, in fact, it is something identical. We want to show and share the different and diverse perspectives through our work. We used three cameras installed in different angles and heights to capture the different outcomes as a result of different views, arrays and colors. The filter effects manifest the colorblind, colors derived from colorblind, afterimage and zoom etc. The more people see the work in the same space, the more its screen is divided and changed by different perspectives. The display was made by visualizing the whole and parts in various frames.",
+      "vimeoUrl": "",
+      "coX": 1,
+      "coY": 6,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00100",
+      "designer": [
+        {
+          "nameKr": "윤지영",
+          "nameEng": "Yoon Jiyoung",
+          "email": "knell435@naver.com",
+          "website": "",
+          "comment": "실용적인 무언가를 만들기 보다 자신의 생각을 담은 것을 만들 수 있는 별로 없을 기회를 얻어서 좋았다. 작품을 만들기까지 도와주신 교수님과 함께 고생해준 보윤이에게 감사하다."
+        },
+        {
+          "nameKr": "김보윤",
+          "nameEng": "Kim Boyoon",
+          "email": "kby0905@naver.com",
+          "website": "",
+          "comment": "마지막까지 시행착오가 정말 많았다. 추상적인 생각을 구현한다는 것이 얼마나 어려운지 깨달았다. 모두 이 작품이 나오기까지의 과정이라고 생각하고싶다. 함께 해준 언니에게 고맙고 작품을 완성할 수 있어서 기쁘다."
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titleKr": "독심술",
+      "titleEng": "",
+      "descKr": "독심술(Dogsimsool)은 360카메라를 활용한 트레이닝 앱 서비스이다. 대부분의 반려견 문제행동은 견주의 잘못된 훈련 방법과 생활 습관에서 비롯된다고 한다. 반려견의 주변상황과 성격을 파악하지 못한채 인터넷이나 TV에서 나오는 훈련 정보만을 접해 그대로 적용해버리고, 본인의 훈련 방식에 대한 전문적인 피드백도 전무하다. 독심술은 이런 문제들을 해결하기 위해 반려견을 6가지 성격유형으로 나누어 강도와 빈도수를 조절해 트레이닝 플랜을 제안한다. 이 트레이닝 플랜은 견주와 반려견의 신뢰관계 구축을 위한 기본훈련 6가지와 응용된 생활훈련 6가지의 튜토리얼이 마련되어 있다. 또한 360 카메라를 이용해 반려견의 예측 불가능한 행동을 모두 캐치해 전문 트레이너에게 전송하고 해당 영상 그대로 피드백을 받을 수 있도록 기획했다.",
+      "descEng": "Dogsimsool is a pet dog training app service using 360 cameras. Most pet dog behavioral problems result from incorrect dog owners' training methods and lifestyle. Owners don't understand the nature of their pet, learning only from the Internet or TV. And they apply this to their pet, without feedback. Dogsimsool's solution is a pet dog training plan divided into 6 personality types, with customized intensity and frequency. The plan provides 6 kinds of basic training and applied life training tutorials to build trust with pet dogs. It catches unpredictable behavior of the pet using a 360 camera. The owner sends a video to a professional trainer and receives feedback. The dog doesn't have a problem; it all comes down to the owner's behavior.",
+      "vimeoUrl": "",
+      "coX": 8,
+      "coY": 5,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "10000",
+      "designer": [
+        {
+          "nameKr": "이홍주",
+          "nameEng": "Lee Hongjoo",
+          "email": "lyhonnn@gmail.com",
+          "website": "",
+          "comment": "이 세상의 모든 개들에게 이 영광을...."
+        },
+        {
+          "nameKr": "마현지",
+          "nameEng": "Ma Hyunji",
+          "email": "mahj1211@gmail.com",
+          "website": "",
+          "comment": "도움주신 많은 분들 고맙습니다. 덕분에 졸업합니다!"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titleKr": "루미캣",
+      "titleEng": "",
+      "descKr": "루미캣(A Room with a Cat)은 고양이와 사람의 습성을 동시에 고려한 주거공간을 구성하고, 관람자들이 증강현실을 통해 고양이와의 동거를 간접체험하여 원활한 공생을 돕는 프로젝트입니다. 가축화된지 2만년 이상 된 개와 달리, 고양이는 그 기간이 4천년 밖에 되지 않아 아직 야생의 습성이 많이 남아있습니다. 따라서 사람의 UX만 고려된 주거 공간에서 고양이는 사람과 충돌하게 됩니다. 고양이를 많이 키우는 1인 가구를 대상으로 기존의 가구를 디자인 해킹하여 고양이와 사람 모두를 만족시킬 수 있는 방법을 알려줍니다. 또한 전시장에서는 AR로 고양이들과의 동거를 간접체험하면서 고양이에 대한 이해를 돕는 것이 프로젝트의 목적입니다.",
+      "descEng": "Rumicat(A Room with a Cat) is considered a person's mindset at cats and residential spaces, and those wherein the spectator augmented reality of that indirect experience with the cat through. Domestication in contrast to 2 million years old that dogs, cats are not yet out of that length is four thousand years there's a lot of moisture in the wild. Therefore, it was considered only a person's UX people crashes in a residential space cat. Cat brings up a lot of one person households by traditional furniture design hacks cats and tells you how to satisfy everyone. 영어 한국어 Also in the exhibition hall of the cat as and AR second-hand experience while helping you understand the cats for the purpose of this project.",
+      "vimeoUrl": "",
+      "coX": 7,
+      "coY": 0,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00001",
+      "designer": [
+        {
+          "nameKr": "소호현",
+          "nameEng": "So Hohyun",
+          "email": "euros2@naver.com",
+          "website": "",
+          "comment": "힘"
+        },
+        {
+          "nameKr": "이상진",
+          "nameEng": "Lee Sangjin",
+          "email": "sangziii@naver.com",
+          "website": "",
+          "comment": "들었"
+        },
+        {
+          "nameKr": "장한나",
+          "nameEng": "Jang Hanna",
+          "email": "jhn9687@naver.com",
+          "website": "",
+          "comment": "다"
+        }
+      ]
+    }
+  ]
+}

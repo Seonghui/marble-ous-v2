@@ -1,0 +1,19 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 700;
+  height: 100%;
+  padding: 2rem 4rem;
+  .logo {
+    img {
+      height: 24px;
+    }
+  }
+  ul {
+    li {
+      display: inline-block;
+      padding-left: 2rem;
+    }
+  }
+}

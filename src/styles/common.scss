@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'NotoSansKR';
+  font-weight: 400;
+  src: url('../assets/fonts/NotoSansKR-Regular.otf');
+}
+@font-face {
+  font-family: 'NotoSansKR';
+  font-weight: 700;
+  src: url('../assets/fonts/NotoSansKR-Bold.otf');
+}
+
+body {
+  background: #EDEDED;
+  color: #383838;
+  font-family: 'NotoSansKR';
+  font-weight: 400;
+  font-size: 14px;
+}
+
+a {
+  color: #383838;
+  text-decoration: none;
+}
+

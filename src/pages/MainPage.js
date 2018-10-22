@@ -1,14 +1,10 @@
 import React from 'react';
-import ProjectList from '../components/Project/ProjectList/ProjectList';
+import ProjectMain from '../components/Project/ProjectMain/ProjectMain';
 import data from '../data.json';
 
 const MainPage = () => {
   return (
-    <div>
-      <h2>
-        <ProjectList data={data.list}/>
-      </h2>
-    </div>
+    <ProjectMain data={data.list}/>
   )
 }
 

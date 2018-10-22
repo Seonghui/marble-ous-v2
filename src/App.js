@@ -5,10 +5,12 @@ import Header from "./components/Common/Header/Header";
 import "./styles/reset.css";
 import "./styles/common.scss";
 
+
+
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="App">
         <Header />
         <Switch>
           <Route exact path="/" component={MainPage} />

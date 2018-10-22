@@ -1,15 +1,22 @@
 .Header {
+  padding: 2rem 4rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-weight: 700;
-  height: 100%;
-  padding: 2rem 4rem;
+  z-index: 1000;
+    
   .logo {
     img {
       height: 24px;
     }
   }
+
   ul {
     li {
       display: inline-block;

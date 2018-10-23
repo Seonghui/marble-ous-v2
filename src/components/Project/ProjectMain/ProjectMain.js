@@ -5,48 +5,42 @@ import './ProjectMain.scss';
 
 class ProjectMain extends Component {
   state = {
-    delta: 0,
-    seta: 0,
-    pageX: 0,
-    pageY: 0
+    xPos: 0,
+    yPos: 0,
+    xScroll: 0,
+    yScroll: 0,
   };
 
   componentDidMount() {
-    const { delta, seta, pageX, pageY } = this.state;
-    const x = seta + pageX;
-    const y = delta + pageY;
-    console.log(pageX);
-    console.log(pageY);
-    window.requestAnimationFrame(this.onMouseScroll);
+    this.mainInterval = setInterval(() => {
+      this.MainScroll();
+    }, 10);
+  }
+  componentWillUnmount() {
+    clearInterval(this.mainInterval);
   }
 
-  onMouseScroll = () => {
-    const pageX = this.container.scrollLeft;
-    const pageY = this.container.scrollTop;
-    this.setState({
-      pageX,
-      pageY,
-    })
+  MainScroll = () => {
+    const xScroll = this.container.scrollLeft;
+    const yScroll = this.container.scrollTop;
+    const { xPos, yPos } = this.state;
+    this.container.scrollTop = yPos+yScroll;
+    this.container.scrollLeft = xPos+xScroll;
   }
 
   onMouseMove = (e) => {
-    
     const w = window.innerWidth;
     const h = window.innerHeight;
     const x = (e.clientX - w / 2) * 0.015;
     const y = (e.clientY - h / 2) * 0.015;
 
     this.setState({
-      delta: y,
-      seta: x,
+      yPos: y,
+      xPos: x,
     })
   }
   
   render() {
-    
-    
-    // window.scrollTo(, );
-
     return (
       <div
         className="ProjectMain" 
@@ -63,4 +57,3 @@ class ProjectMain extends Component {
 }
 
 export default ProjectMain;
-

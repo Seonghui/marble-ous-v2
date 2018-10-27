@@ -3,4 +3,33 @@
   width: 100%;
   height: 100%;
   overflow: scroll;
+  .upLeftFlag {
+    width: 10px;
+    height: 10px;
+    position: fixed;
+    background-color: red;
+    top: 180px;
+    left: 30%;
+    /* opacity: 0; */
+  }
+
+  .upRightFlag {
+    width: 10px;
+    height: 10px;
+    position: fixed;
+    background-color: red;
+    top: 180px;
+    right: 30%;
+    /* opacity: 0; */
+  }
+
+  .downLeftFlag {
+    width: 10px;
+    height: 10px;
+    position: fixed;
+    background-color: red;
+    bottom: 100px;
+    left: 30%;
+    /* opacity: 0; */
+  }
 }

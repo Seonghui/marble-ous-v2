@@ -648,6 +648,294 @@
           "comment": ""
         }
       ]
+    },
+    {
+      "id": 18,
+      "titleKr": "ECOSYSTEM",
+      "titleEng": "",
+      "descKr": "미디어는 우리 삶의 곳곳에 스며들어있다. 태초에 인간이 살던 자연 환경처럼 오늘 날 인간은 미디어로 둘러쌓인 환경 속을 살아간다. 디지털 기술이 발달함에 따라 미디어가 인간에게 미치는 영향 또한 날로 커지고 있다. 미디어를 통해 방대한 양의 데이터를 다루게 되었고 이를 토대로 기계가 스스로 학습하는머신 러닝(machine learning)이 가능해졌다. 미래학자들은 2045년, 기계가 가진 지식이 전 인류의 지식을 뛰어넘는 기술적 특이점(Technological singularity)이 올 것이라고 예측한다. 이 작품은 미디어 퍼포먼스를 통해 2045년 이후, 미래의 환경 속에서 살아가는 주인공의 경험을 서사적으로 풀어나간다. 또한 관객들이 위치한 공간을 아울러 투사되는 영상을 통해 주인공이 경험하는세상을 함께 체험할 수 있는 혼합현실(Mixed Reality) 이다.",
+      "descEng": "Mass media is omnipresent. Mankind exists within digital boundaries which have replaced the natural environment it used to be sheltered in. As digital technology improves, the influence it has on humans is undergoing exponential growth. We have learned to process vast amounts of information and this skill has been passed on to machines, thus bringing the concept of 'machine learning' into reality. Scholars predict that in 2045, artificial intelligence would surpass the intellectual capacities of humans to bring an age marked with 'techonlogical singularity'. This piece portrays the life of the protagonist from 2045 onwards via a narrative perspective. It also enables the audience to experience a 'mixed reality' including the protagonist's world with the utilization of visual effects projected within the spacial range of the audience.",
+      "vimeoUrl": "https://player.vimeo.com/video/200331162?api=1&player_id=player_1",
+      "coX": 4,
+      "coY": 6,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00010",
+      "designer": [
+        {
+          "nameKr": "남상혁",
+          "nameEng": "Nam Sanghyuk",
+          "email": "shnam1205@naver.com",
+          "website": "",
+          "comment": "여러 요소들을 복합적으로 다루면서 많은 변수들이 있었지만 하나씩 해결해나가는 과정을 통해 많이 배운 것 같다."
+        },
+        {
+          "nameKr": "박성현",
+          "nameEng": "Park Sunghyun",
+          "email": "him4578@naver.com",
+          "website": "https://vimeo.com/vjcharm",
+          "comment": "버리고 갈 것만 남아서 참 홀가분하다."
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "titleKr": "EGOS",
+      "titleEng": "",
+      "descKr": "현재 국내에는 그리스 로마 신화와 관련한 다양한 서적들이 있다. 그리스 문명이 미술, 문화, 건축 등 현대 문명의 시초가 되었기 때문이다. 따라서 그리스 로마 신화에 대한 대중의 인지도가 높은 반면, 고대 이집트 신화와 관련한 문헌과 자료는 상대적으로 그 수가 적다. 하지만 실상 그리스 로마 신화의 기원이 된 문화는 고대 이집트 문명이다. EGOS(에고스) 는 초등학교 고학년을 타깃으로 현대 문명의 기원이 된 이집트 신화를 쉽고 재미있게 배울 수 있도록 돕는 인터랙티브 인스톨레이션이다. 자칫 지루할 수 있는 암기식 교육이 아닌, 신들의 언어인 상형문자를 통해 이집트 신화를 배우는 새로운 경험을 준다. '동물'들이 모티브가 이집트 신을 통해 이집트 신화가 전혀 낯설거나 어려운 것이 아닌 흥미로운 신화임을 알리고자 한다.",
+      "descEng": "We have tons of books and detail data about Classic myths in Korea, while ancient Egyptian myths are not that popular. The fact is that ancient Egyptian civilizataion influenced to history in many ways. The origin of Classic myths also came from some parts of Egyptian civilization But, we do not have enough accurate data to learn about gods of Egyptian myths for Children. Learning about Egyptian myths can be helpful. 'EGOS' is an interactive installation which helps elementary school students to get to know about Egyptian myths easily. Learning about Egyptian gods through hieroglyphs which is gods language can be a new experience, instead to learn by rote. 'EGOS' introduces ancient Egyptian myths are interesting, which are not unfamilier or difficult.",
+      "vimeoUrl": "https://player.vimeo.com/video/192252080?api=1&player_id=player_1",
+      "coX": 8,
+      "coY": 3,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00110",
+      "designer": [
+        {
+          "nameKr": "남지은",
+          "nameEng": "Nam Jieun",
+          "email": "namjieun93@gmail.com",
+          "website": "",
+          "comment": "감사합니다. 이 영광을 조모임 할 때마다 시켜 먹은 피자에게 돌립니다."
+        },
+        {
+          "nameKr": "성유리",
+          "nameEng": "Sung Yuri",
+          "email": "yurisung2749@gmail.com",
+          "website": "https://www.behance.net/yurisu",
+          "comment": "둘 중 하나는 거짓을 말하고 있습니다. 저는 진실만을 말하는 소녀입니다."
+        },
+        {
+          "nameKr": "이주연",
+          "nameEng": "Lee juyeon",
+          "email": "dprocess@naver.com",
+          "website": "",
+          "comment": "저희는 피자를 먹은 적 없습니다. 이 영광을 어제 밤에 먹은 치킨에게 돌립니다."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "titleKr": "Flow Media",
+      "titleEng": "",
+      "descKr": "미디어는 메시지다.'는 마샬 맥루한의 유명한 경구이다. 매체의 형식에 따라 메시지가 정의된다는 것이다. 우리는 수십년동안 다양한 매체의 변화를 경험해 왔다. 주목할 점은 동일한 의미를 가진 메시지가 매체에 따라 형태가 바뀐다는 것이다. 우리는 편지, 삐삐, 컴퓨터, 스마트폰을 대표적인 매체로 선정하여 동일한 메시지가 매체에 따라 변형된 모습을 보여주고자 한다. 사용자는 시대별로 흐르는 메시지의 형태를 컨트롤해봄으로써 각 메시지의 의미를 해석해보고 각 매체별 형태변화를 확인해 볼 수 있다. 또한 각 매체별 영상을 통해 해당 미디어를 사용했던 시대적 분위기를 느껴보고, 세대별 소통방식의 다양성을 이해해볼 수 있다. 이번 작품을 통해 시대가 변하고 매체도, 메시지의 형태도 다양해졌지만 누군가에게 전달하고 싶은 진정한 마음은 변하지 않았음을 느꼈으면 좋겠다.",
+      "descEng": "‘The medium is the message’ is a phrase coined by Marsahll McLuan. It means that the message is defined by the types of communication medium. and We have experienced various changes about medium for decades. The interesting point is the message still have the same meaning even though that forms have been transformed through flow media. So we choose four types of classic media such as letter, page, computer and smartphone and made installation how to transform the message forms from letter to smartphone. User can see the change of message form in medium flow and interpret that meaning by using control a lighting bar. Also user feels its atmosphere and understands diversity of communication in each generation by watching movie clips. But you must know that heart always saying the truth, although the messages has changed over time.",
+      "vimeoUrl": "",
+      "coX": 2,
+      "coY": 7,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00110",
+      "designer": [
+        {
+          "nameKr": "박소영",
+          "nameEng": "Park SoYoung",
+          "email": "bsy2306@gmail.com",
+          "website": "",
+          "comment": "졸작에 치이고 회사에 치이고 1년동안 굴러온 우리, 열심히 작업하고 열심히 놀준비 하자!"
+        },
+        {
+          "nameKr": "김정아",
+          "nameEng": "Kim JeungAh",
+          "email": "gree023@gamil.com",
+          "website": "",
+          "comment": "투잡 뛰느라 고생했다. 내년엔 하나만 하자"
+        },
+        {
+          "nameKr": "김보람",
+          "nameEng": "Kim Boram",
+          "email": "hoho0611@naver.com",
+          "website": "",
+          "comment": "hoho0611@naver.com"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "titleKr": "Heart Project",
+      "titleEng": "",
+      "descKr": "'그런즉 믿음, 소망, 사랑, 이 세 가지는 항상 있을 것인데 그중의 제일은 사랑이라' 고전 13:13. 나는 하나님이 인간에게 주신 최고의 감정이 사랑이라고 생각한다. 가족, 연인, 스승, 제자, 친구, 애완동물 등 우리는 모두 누군가를 사랑하고 있다. 하지만 그들에게 우린 사랑을 잘 표현하고 있을까? 사랑은 표현해야 하는 것이다. 왜냐면 그러지 못할 때가 분명 오기 때문이다. 또한 사랑을 표현하는, 받는 그 기쁨은 참 놀라운 것이다. '지금 바로 사랑하는 사람에게 사랑을 표현하자'에서 이 작품은 시작되었다. 사랑의 대표적 상징인 하트를 이용한 프로젝트이다. 팔로 하트를 그리면 바로 앞에 있는 스크린에서 하트가 생긴다. 하트의 여러 재질들은 사랑의 속성을 나타내는데, 풍선은 사랑의 순수함, 꿈, 날아갈 것 같은 기분을 나타낸다. 많은 이들이 이 작품을 통해 사랑을 표현할 때 얻는 기쁨을 누리고, 후에 사랑하는 이들에게 사랑을 표현했으면 좋겠다! 지금 바로!",
+      "descEng": "'And now there remain: faith, hope, love, these three; but the greatest of these is love.' 1 Cor. 13:13 The best feeling God has given human is love. We all have loved ones. Family, your the other half, teachers, students, your pets and the list goes on. Do you tell them how much you love them, though? You must express it because there will be days you can't. Also, it is such a wonderful feeling from which you get when you do. This project started from that idea. 'Show your loved ones how much you appreciate them.' It is done with a shape of heart. When you make a heart with your arms hearts come up in the screen. It was used to describe attributes of love that the hearts have many different textures. Each balloon means the pureness of love, dreams and feeling like flying. I inspire people to express their care to the ones you love, had not done yet. I hope you to experience the pleasure of expressing your love for them right now.",
+      "vimeoUrl": "https://player.vimeo.com/video/192252150?api=1&player_id=player_1",
+      "coX": 1,
+      "coY": 2,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00100",
+      "designer": [
+        {
+          "nameKr": "윤은진",
+          "nameEng": "Yun Eun-Jin",
+          "email": "ydmswls21@naver.com",
+          "website": "",
+          "comment": "팀원이 없는 개인 프로젝트였지만, 혼자의 힘으로 했다고 생각진 않는다. 나를 믿어주고 도와주고 기도해준 모든 팀원들에게 감사를 전한다! 모든 것 주관하신 하나님께 영광과 감사를!"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "titleKr": "huas",
+      "titleEng": "",
+      "descKr": "huas(후아스)는 푸른 생기를 불어넣는 도시 속 복합문화공간이다. 다양한 문화생활과 넓은 범위의 서비스를 제공하는 복합문화공간 huas에는 4가지의 감정을 가진 art, play, edu, rest 공간들로 이루어져 있다. 예술을 접하고 문화생활로 인하여 생활에 생기를 불어넣는 바람의 소리 ‘hu~’ 와 자신, 타인, 예술에 질문을 던지는 ‘Who?’의 의미를 담고 있다. 브랜드 이미지는 푸른 색상과 바람을 시각화한 곡선을 이용한 그래픽으로 풀어나간다. 본 작품은 ‘ huas 브랜드에 들어가다 ’라는 개념으로 정체성과 스토리를 느낌, 경험, 인지 등을 통합적인 경험을 할 수 있는 통합브랜딩 프로모션이다. 브랜드를 효과적으로 소개할 수 있는 인포그래픽 홍보영상과 프로모 홍보영상으로 통합적인 정보를 이해할 수 있게 하고 Digital wallpaper를 통하여 브랜드를 경험할 수 있게 한다. 우리 마음에 huas의 푸른 생기가 불어와 삶에 여유와 호기심을 되찾길 기대해본다.",
+      "descEng": "'huas' is the complex cultural space giving fresh life to city. The complex cultural space 'huas' which provide various cultural life and wide range service consists of   place of art, play, edu and rest. Huas means that sound of wind 'hu~' which giving life by experience of art and cultural life, and 'Who?' is the question of me, other people and art. Image of brand uses blue color and graphic by visualization curve of wind. This work means 'Go into the brand of huas' and branding promotion which can integrated experience. Inforgraphic movie and promo movie, which can introduce brand effectively, help to understand integrated informations and experience brand by using Digital wallpaper. I expect to fresh life of huas can regain relax and curiosity about life.",
+      "vimeoUrl": "https://player.vimeo.com/video/190142252?api=1&player_id=player_1",
+      "coX": 7,
+      "coY": 6,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00010",
+      "designer": [
+        {
+          "nameKr": "제민주",
+          "nameEng": "Jea Minjoo",
+          "email": "w1minjoo616@naver.com",
+          "website": "behance.net/Jeaminjoo",
+          "comment": "통합브랜딩과 문화컨텐츠라는 좋아하는 분야를 같이 작업할 수 있어서 좋은 경험이었다. 모두가 자신만의 후아스에서 문화생활을 하며 삶에 바람이 불기를 바란다."
+        },
+        {
+          "nameKr": "김혜원",
+          "nameEng": "Kim Hyewon",
+          "email": "favor0122@naver.com",
+          "website": "",
+          "comment": "favor0122@naver.com"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "titleKr": "KetchStitch",
+      "titleEng": "",
+      "descKr": "프랑스자수를 통해 자신만의 개성을 더한 소품을 만들어 만족감을 얻는 사람들이 점차 늘고 있다. 이에 자수를 놓고 활용하기까지의 행동 패턴을 분석해 도안을 단계별로 나누어 프랑스자수 도안 제작과 공유를 돕는 패드형 앱 서비스를 기획하였다. KetchStitch는 프랑스자수 도안의 효율적인 아이디어 테스팅 과정을 제공하고, 그 과정을 통해 만들어진 구체적인 자수 도안을 제공함으로써 실제 자수 작업에 착수하기 전 원활한 자수 계획을 도와준다. 또한 사용자는 도안의 공유와 다른 사람들과 함께 진행하는 도안 제작 프로젝트를 통해 보다 더 퀄리티 있고 다양한 도안을 만나 볼 수 있다. 그럼 KetchStitch와 함께 경험해보지 못 했던 프랑스자수의 세계를 경험해보자!",
+      "descEng": "Recently many people are satisfied with characterful DIY item made of French embroidery. So we analyzed the users behavior patterns from embroidering to mapping and separated embroidery designs step by step. We planned an ipad app services that helps you create and share a French embroidery designs. KetchStitch provides an efficient idea testing process of French embroidery. By providing French embroidery design that was made through process, You can get help embroidery plan more easily, before the actual embroidery work.  Also, users can share their sketches and meet even more high quality and various sketches by joinning to sketch-making project proceeded with other people. Let’s enjoy the world of French stitch you've never experienced with KetchStitch!",
+      "vimeoUrl": "",
+      "coX": 8,
+      "coY": 6,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "10000",
+      "designer": [
+        {
+          "nameKr": "김상아",
+          "nameEng": "Kim Sangah",
+          "email": "ksa9284@gmail.com",
+          "website": "",
+          "comment": "처음 시작할 때만 해도 끝나지 않을 것 같았던 졸업전시였는데 다행히도 끝은 있었습니다. 한땀한땀 정성들인 KetchStitch가 자랑스럽습니다. 도와주신 모든 분들께 감사를 표합니다!"
+        },
+        {
+          "nameKr": "한연진",
+          "nameEng": "Han Yeonjin",
+          "email": "gksduswls8474@gmail.com",
+          "website": "",
+          "comment": "졸업합니다! 학교를 벗어나려니까 걱정도 되지만 신나기도 하네요. 당장은 걱정은 뒤로하고 졸업한 즐거움 느끼면서 즐기고 싶습니다. 또한 열심히 만든 저희 졸업작품도 부디 재밌게 즐겨주셨으면 하는 바람입니다. 힘들 때마다 위로가 되어준 엑소와 샤이니... 고맙습니다... 오예! 나 졸업함!!!"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "titleKr": "Kidult Playground",
+      "titleEng": "",
+      "descKr": "키덜트는 Kids와 Adult의 합성어로 동심을 가진 어른들을 말한다. 많은 스트레스와 어린시절에 대한 향수로 인해 최근 키덜트들이 다수 등장하고 새로운 소비문화 계층으로 자리잡았다. 과거의 ‘오타쿠, 성숙하지 못한 어른’ 등 부정적이었던 키덜트에 대한 사회 인식이 변화하였고 이에 맞춰 홍대입구 주변 상권에는 다양한 키덜트 샵들이 생겼다. 우리는 이러한 공간들을 키덜트만을 위한 지도로 제작하여 보여주고자 했다. 컬러링 맵 위에 공이 맞으면 장소가 색칠되는 게임 형식으로, 스트레스를 해소할 수 있는 '공 던지기'와 어린시절을 떠올릴 수 있는 '색칠놀이'를 인터랙션 방식으로 가져와 어린시절로 돌아간 듯한 놀이 경험을 할 수 있도록 했다. 또한 동시에 키덜트들은 쉽고 재밌게 필요한 장소 정보를 얻을 수 있을 것이다. 키덜트! 플레이그라운드로 모여라!",
+      "descEng": "Kidult is a compound word of Kids and Adult. Because of stress and nostalgia for childhood, kidult has recently appeared. Few years ago, most people thought negatively about kidult such as ‘Otaku, Immature adult', but it has been changed positively. Accordingly, various shops for kidult built in the commercial area around Hongik University. We would like to show this area through a map for kidult. If you throw a ball on the map, the hitted spot will be coloured. Kidult is able to have an experience recalling childhood memories because we used ‘throwing the ball’ and ‘colouring play’ by interaction method. They also can get useful information easily and enjoy it. Kidult! Let’s play!",
+      "vimeoUrl": "",
+      "coX": 6,
+      "coY": 0,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "00100",
+      "designer": [
+        {
+          "nameKr": "김지언",
+          "nameEng": "Kim Jieon",
+          "email": "jieon0217@naver.com",
+          "website": "",
+          "comment": "내 인생 몇 안되는 수능 다음으로 다시 하라면 못할 정말 힘든 경험이자 동시에 잊고싶지 않은 즐거운 시간이였다. 철없는 언니를 항상 잘 이끌어준 나의 사랑하는 파트너 경화에게 리스펙트....기술에 도움을 주신 인피니티 미디어에도 영광을 돌립니다. 김지언 7년만에 졸업합니다!!!와아아!!!"
+        },
+        {
+          "nameKr": "나경화",
+          "nameEng": "Na Gyounghwa",
+          "email": "na77420@gmail.com",
+          "website": "키덜트뿐만 아니라 모든 사람들이 쉽고 재밌게 즐기면서 살았으면 좋겠습니다. 졸전 파트너 지언니와 인피니티 미디어에 감사하다고 말하면서! 졸업하기 싫다아아",
+          "comment": ""
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "titleKr": "Live Doco",
+      "titleEng": "",
+      "descKr": "미술관과 박물관은 점차 소통을 중요시하고 관람객의 수준도 세분화되고 있다. 그러나 여전히 전시는 일반인이 접근하기에는 관람 진입장벽이 높으며, 신진작가들은 자신의 작품을 선보일 기회를 찾는 일도 쉽지 않아지고 있다. 이번 프로젝트는 전시장 및 미술 시장의 소통의 부재를 해결하면서도 격이 없고, 누구나 쉽게 소통하며 작품을 즐길 수 있는 새로운 감상 문화를 제안한다. 도슨트의 라이브 스트리밍 서비스를 통해 시간과 공간에 제약되지 않고, 생방송 도중 원하는 작가의 작품을 아카이빙 할 수 있게 하여 관람객의 관심을 유도한다. 이를 통해 작가에게는 자신의 작품을 쉽게 홍보할 수 있는 기회를 제공한다. Live Doco는 이전에는 볼 수 없었던 새로운 도슨트 서비스이며 소통을 이끌어내는 매개체 역할을 수행한다.",
+      "descEng": "Exhibition Center becomes a place of communication, and levels of audiences subdivides. Still, Art Musium and Musium have high entry barrier and New artists have little room to show their arts. This project solves the absence of communication between exhibition center and art market, and also suggests a new, informal, exciting appriciation culture. With live-streaming service from docents, There is no time and spacial limit. And through archiving service, docents can drive attention from audiences. Also, artists have oppertunity to promote their arts easilly. Live Doco is new level of docents service which has never seen before and performs as a media which can drives communication.",
+      "vimeoUrl": "https://player.vimeo.com/video/192252180?api=1&player_id=player_1",
+      "coX": 5,
+      "coY": 4,
+      "type1": "practical",
+      "type2": "insightful",
+      "platform": "11000",
+      "designer": [
+        {
+          "nameKr": "한지수",
+          "nameEng": "Han Jisu",
+          "email": "bonheur9172@gmail.com",
+          "website": "",
+          "comment": "7년...드디어 졸업..."
+        },
+        {
+          "nameKr": "고지현",
+          "nameEng": "Ko Jihyun",
+          "email": "kunstjihyun@naver.com",
+          "website": "",
+          "comment": "애증의 졸전 프로젝트.. 끝이났습니다. 여기까지 올 수 있도록 도와주신 많은 분들께 감사드리며 파트너 지수 언니 고마워요!! 이제 디자인에서 졸업!!!!"
+        },
+        {
+          "nameKr": "",
+          "nameEng": "",
+          "email": "",
+          "website": "",
+          "comment": ""
+        }
+      ]
     }
   ]
 }

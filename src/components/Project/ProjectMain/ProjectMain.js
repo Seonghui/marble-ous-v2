@@ -10,11 +10,13 @@ class ProjectMain extends Component {
   };
 
   componentDidMount() {
+    // 메인 마우스 스크롤
     this.mainInterval = setInterval(() => {
       this.mainScroll();
     }, 10);
 
     this.subInterval = setInterval(() => {
+      // 충돌 감지
       this.detectItem();
     }, 2000);
   }
@@ -29,14 +31,17 @@ class ProjectMain extends Component {
     const upRightX = this.upRight.getBoundingClientRect().left;
     const downLeftY = this.downLeft.getBoundingClientRect().top;
 
-    for(let i = 0; i <= 17; i++) {
+    for(let i = 0; i <= 25; i++) {
       const team = document.getElementsByClassName('ProjectItem')[i];
+      const thumbnail = document.getElementsByClassName('thumbnail')[i];
       const teamX = team.getBoundingClientRect().left + team.offsetWidth;
       const teamY = team.getBoundingClientRect().top + team.offsetHeight;
       if (upLeftX <= teamX && teamX <= upRightX && upLeftY <= teamY && teamY <= downLeftY) {
-        team.style.backgroundColor="red";
+        team.classList.add('active');
+        thumbnail.classList.add('active');
       } else {
-        team.style.backgroundColor="black";
+        team.classList.remove('active');
+        thumbnail.classList.remove('active');
       }
     }
   };
@@ -52,8 +57,8 @@ class ProjectMain extends Component {
   onMouseMove = e => {
     const w = window.innerWidth;
     const h = window.innerHeight;
-    const x = (e.clientX - w / 2) * 0.015;
-    const y = (e.clientY - h / 2) * 0.015;
+    const x = (e.clientX - w / 2) * 0.02;
+    const y = (e.clientY - h / 2) * 0.02;
 
     this.setState({
       yPos: y,

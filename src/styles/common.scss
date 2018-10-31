@@ -4,9 +4,9 @@
   src: url('../assets/fonts/NotoSansKR-Regular.otf');
 }
 @font-face {
-  font-family: 'NotoSansKR';
-  font-weight: 700;
   src: url('../assets/fonts/NotoSansKR-Bold.otf');
+  font-weight: 700;
+  font-family: 'NotoSansKR';
 }
 html, body {
   width: 100%;
@@ -15,13 +15,21 @@ html, body {
 body {
   background: #EDEDED;
   color: #383838;
-  font-family: 'NotoSansKR';
   font-weight: 400;
   font-size: 14px;
+  font-family: 'NotoSansKR';
 }
 a {
   color: #383838;
   text-decoration: none;
+}
+h4 {
+  color: #242424;
+  font-weight: 700;
+  font-size: 1rem;
+}
+.on {
+  display: inline-block !important;
 }
 #root {
   height: 100%;

@@ -1,67 +1,96 @@
 .ProjectItem {
   display: inline-block;
-  position: relative;
+  width: 150px;
+  height: 180px;
   text-align: center;
-  transform: translateY(-50%) translateX(-50%);
-  &:hover {
-    background: #FF7A00;
-  }
 
   &.active {
-    svg {
-      display: inline-block;
-    }
-
-    img {
-      width: 134px;
-      height: 134px;
-    }
-
-    .title {
-      display: block;
-    }
-  }
-
-  img {
-    width: 24px;
-    height: 24px;
-    border-radius: 50%;
-    cursor: pointer;
-    box-shadow: 6px 6px 8px 0px rgba(94, 94, 94, 0.1);
-    border: 3px solid #C7C7C7;
-    transition: all 2s;
-  }
-
-  svg {
-    display: none;
-    width: 180px;
-    height: 180px;
-    position: absolute;
-    top: -5px;
-    left: 5px;
-
-    .svg-circle {
-      fill: none;
-      stroke: #7E7E7E;
-      stroke-width: 3;
-      stroke-miterlimit: 10;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      animation: dash 12s linear forwards;
-      animation-delay: 1.5s;
-    }
-
-    @keyframes dash {
-      to {
-        stroke-dashoffset: 0;
+    .circle {
+      svg {
+        display: inline-block;
       }
+      .dummy {
+        width: 134px;
+        height: 134px;
+      }
+      .thumbnail {
+        width: 134px;
+        height: 134px;
+        &:hover {
+          width: 114px;
+          height: 114px;
+        }
+      }
+    }
+    .title {
+      opacity: 1;
+      transition: all 1s;
+    }
+  }
+
+  .circle {
+    position: relative;
+    width: 150px;
+    height: 150px;
+
+    svg {
+      display: none;
+      width: 150px;
+      height: 150px;
+
+      .svg-circle {
+        display: none;
+        fill: none;
+        stroke: #7E7E7E;
+        stroke-width: 3;
+        stroke-miterlimit: 10;
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 1000;
+        animation: dash 12s linear forwards;
+        animation-delay: 1.5s;
+      }
+  
+      @keyframes dash {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    }
+    .dummy {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 23px;
+      height: 23px;
+      border-radius: 50%;
+      border: 3px solid #C7C7C7;
+      transform: translate(-50%, -50%);
+      transition: all .5s;
+      z-index: -10;
+    }
+    .thumbnail {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 23px;
+      height: 23px;
+      border-radius: 50%;
+      background-image: url('/images/thumb_dummy.png');
+      background-size: 23px;
+      transform: translate(-50%, -50%);
+      transition: all .5s;
+      cursor: pointer;
+      box-shadow: 6px 6px 8px 0px rgba(94, 94, 94, 0.1);
     }
   }
   .title {
-    display: none;
+    position: absolute;
+    right: -5px;
+    opacity: 0;
+    transition: all 1s;
     h4 {
-      margin: 10px 0 6px 0;
       width: 160px;
+      margin: 10px 0 6px 0;
     }
     span {
       font-size: 0.8rem;

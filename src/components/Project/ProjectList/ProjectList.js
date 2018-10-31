@@ -14,7 +14,9 @@ class ProjectList extends Component {
       designer2={res.designer[1].nameKr}
       designer3={res.designer[2].nameKr}
       coX={res.coX}
-      coY={res.coY} />
+      coY={res.coY}
+      platform={res.platform}
+      />
     })
     return projectItem;
   }

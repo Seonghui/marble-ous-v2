@@ -1,10 +1,10 @@
 import React from "react";
+import DesignerMain from '../components/Designer/DesignerMain/DesignerMain';
+import data from "../data.json";
 
 const DesignerPage = ({ match }) => {
   return (
-    <div>
-      <h2>Designer</h2>
-    </div>
+    <DesignerMain data={data.list}/>
   );
 };
 

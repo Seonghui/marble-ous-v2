@@ -1,0 +1,25 @@
+.ContentDesigner {
+  display: inline-block;
+  h4 {
+    padding-bottom: 1.2rem;
+  }
+  .Item {
+    display: flex;
+    align-items: center;
+    float: left;
+    width: 300px;
+    padding-bottom: 1.2rem;
+    img {
+      border-radius: 50%;
+    }
+    .itemText {
+      margin-left: 1.5rem;
+      p {
+        font-size: 0.8rem;
+        &:first-child {
+          font-weight: 700;
+        }
+      }
+    }
+  }
+}

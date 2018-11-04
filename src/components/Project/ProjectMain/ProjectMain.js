@@ -11,9 +11,9 @@ class ProjectMain extends Component {
 
   componentDidMount() {
     // 메인 마우스 스크롤
-    this.mainInterval = setInterval(() => {
-      this.mainScroll();
-    }, 10);
+    // this.mainInterval = setInterval(() => {
+    //   this.mainScroll();
+    // }, 10);
 
     this.subInterval = setInterval(() => {
       // 충돌 감지

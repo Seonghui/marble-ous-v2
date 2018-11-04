@@ -10,9 +10,7 @@ class ProjectList extends Component {
       key={index} 
       id={index}
       titleKr={res.titleKr}
-      designer1={res.designer[0].nameKr}
-      designer2={res.designer[1].nameKr}
-      designer3={res.designer[2].nameKr}
+      designer={res.designer}
       coX={res.coX}
       coY={res.coY}
       platform={res.platform}

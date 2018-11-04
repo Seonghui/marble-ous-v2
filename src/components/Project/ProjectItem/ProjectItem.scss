@@ -92,8 +92,13 @@
       width: 160px;
       margin: 10px 0 6px 0;
     }
-    span {
-      font-size: 0.8rem;
+    .name {
+      margin-right: -3px;
+      span {
+        padding: 0 2px;
+        font-size: 0.8rem;
+      }
     }
+    
   }
 }

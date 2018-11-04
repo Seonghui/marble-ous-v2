@@ -10,7 +10,7 @@ class ProjectItem extends Component {
   }
   
   render() {
-    const { id, titleKr, designer1, designer2, designer3, coX, coY, platform } = this.props;
+    const { id, titleKr, designer, coX, coY, platform } = this.props;
 
     const Thumbnail = styled.div`
       &.active{
@@ -32,6 +32,8 @@ class ProjectItem extends Component {
       left: ${coX * 220}px;
     `;
 
+    console.log(designer[1] === undefined);
+
     return (
       <Box className="ProjectItem">
         <Link to={`/content/${id}`}>
@@ -48,7 +50,11 @@ class ProjectItem extends Component {
         </div>
           <div className="title">
             <h4>{titleKr}</h4>
-            <span>{designer1} {designer2} {designer3}</span>
+            <div className="name">
+              <span>{ designer[0] !== undefined ? designer[0].nameKr : '' }</span>
+              <span>{ designer[1] !== undefined ? designer[1].nameKr : '' }</span>
+              <span>{ designer[2] !== undefined ? designer[2].nameKr : '' }</span>
+            </div>
           </div>
         </Link>
       </Box>

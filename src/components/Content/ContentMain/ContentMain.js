@@ -23,8 +23,12 @@ class ContentMain extends Component {
             <ContentDesigner data={data.designer} id={id} />
           </div>
           <div className="aside">
-            <Panel title="CHARACTER"/>
-            <Panel title="PLATFORM"/>
+            <Panel title="CHARACTER">
+              <h1>뭐쩌고</h1>
+            </Panel>
+            <Panel title="PLATFORM">
+              <h2>저쩌고</h2>
+            </Panel>
           </div>
         </div>
       </div>

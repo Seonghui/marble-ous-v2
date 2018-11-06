@@ -3,13 +3,15 @@ import "./Panel.scss";
 
 class Panel extends Component {
   render() {
-    const { title } = this.props;
+    const { title, children } = this.props;
     return (
       <div className="Panel">
         <div className="title">
-          <span>{title}</span>
+          <span>{ title }</span>
         </div>
-        <div className="content"></div>
+        <div className="content">
+          { children }
+        </div>
       </div>
     );
   }

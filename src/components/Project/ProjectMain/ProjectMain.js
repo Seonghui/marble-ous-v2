@@ -32,7 +32,7 @@ class ProjectMain extends Component {
     const upRightX = this.upRight.getBoundingClientRect().left;
     const downLeftY = this.downLeft.getBoundingClientRect().top;
 
-    for(let i = 0; i <= 25; i++) {
+    for(let i = 0; i <= 32; i++) {
       const team = document.getElementsByClassName('ProjectItem')[i];
       const thumbnail = document.getElementsByClassName('thumbnail')[i];
       const teamX = team.getBoundingClientRect().left + team.offsetWidth;

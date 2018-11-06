@@ -29,10 +29,8 @@ class ProjectItem extends Component {
     const Box = styled.div`
       position: absolute;
       top: ${coY * 220}px;
-      left: ${coX * 220}px;
+      left: ${(coX * 220) - 75}px;
     `;
-
-    console.log(designer[1] === undefined);
 
     return (
       <Box className="ProjectItem">

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import ProjectList from '../ProjectList/ProjectList';
 import ProjectGrid from '../ProjectGrid/ProjectGrid';
+import ProjectAside from '../ProjectAside/ProjectAside';
 import './ProjectMain.scss';
 
 class ProjectMain extends Component {
@@ -97,6 +98,7 @@ class ProjectMain extends Component {
 
         <ProjectGrid />
         <ProjectList data={this.props.data} />
+        <ProjectAside />
       </div>
     );
   }

@@ -1,0 +1,14 @@
+.AboutMain {
+  .mainGif {
+    width: 100%;
+    height: 400px;
+    background: grey;
+  }
+  .inner {
+    .row-1 {
+      display: flex;
+      justify-content: center;
+      height: 100%;
+    }
+  }
+}

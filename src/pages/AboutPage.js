@@ -1,10 +1,9 @@
 import React from "react";
+import AboutMain from '../components/About/AboutMain/AboutMain';
 
 const AboutPage = ({ match }) => {
   return (
-    <div>
-      <h2>About</h2>
-    </div>
+    <AboutMain />
   );
 };
 

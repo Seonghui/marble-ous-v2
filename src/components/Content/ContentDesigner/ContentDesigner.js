@@ -39,7 +39,6 @@ class Item extends Component {
           <p>{email}</p>
         </div>
         
-        
       </div>
     )
   }

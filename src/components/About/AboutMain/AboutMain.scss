@@ -1,3 +1,19 @@
+.row {
+  margin-bottom: 4rem;
+  .left {
+    padding-right: 6%;
+    .text {
+      &:last-child{
+        padding-top: 2rem;
+      }
+      p {
+        margin-top: 1.2rem;
+      }
+    }
+  }
+}
+
+
 .AboutMain {
   .mainGif {
     width: 100%;
@@ -9,6 +25,34 @@
       display: flex;
       justify-content: center;
       height: 100%;
+      .left {
+        padding-right: 6%;
+      }
+
+      .right {
+        .Panel {
+          width: 380px;
+        }
+      }
+    }
+    .row-2 {
+      display: flex;
+      justify-content: center;
+      .right {
+        width: 100%;
+        .detail {
+          height: auto;
+          padding: 1rem;
+          background: rgba(255, 255, 255, 0.85);
+          border-radius: 5px;
+          box-shadow: 10px 10px 12px 0px rgba(111, 111, 111, 0.1);
+        }
+      }
+    }
+    .row-3 {
+      .Panel {
+        width: 100%;
+      }
     }
   }
 }

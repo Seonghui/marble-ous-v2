@@ -2,12 +2,15 @@ import React, { Component } from 'react';
 import ProjectList from '../ProjectList/ProjectList';
 import ProjectGrid from '../ProjectGrid/ProjectGrid';
 import ProjectAside from '../ProjectAside/ProjectAside';
+import ReactCursorPosition from 'react-cursor-position'
 import './ProjectMain.scss';
 
 class ProjectMain extends Component {
   state = {
     xPos: 0,
     yPos: 0,
+    gridX: 0,
+    gridY: 0,
   };
 
   componentDidMount() {
@@ -67,8 +70,15 @@ class ProjectMain extends Component {
     });
   };
 
-  render() {
+  gridMousePosition = (x, y) => {
+    this.setState({
+      gridX: x,
+      gridY: y,
+    });
+  };
 
+  render() {
+    const { gridX, gridY } = this.state;
     return (
       <div
         className="ProjectMain"
@@ -95,10 +105,11 @@ class ProjectMain extends Component {
           }}
           className="downLeftFlag"
         />
-
-        <ProjectGrid />
+        <ReactCursorPosition className="gridWrapper">
+          <ProjectGrid mousePosition={this.gridMousePosition}/>
+        </ReactCursorPosition>
         <ProjectList data={this.props.data} />
-        <ProjectAside />
+        <ProjectAside gridX={gridX} gridY={gridY} />
       </div>
     );
   }

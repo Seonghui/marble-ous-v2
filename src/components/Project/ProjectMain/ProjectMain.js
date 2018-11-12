@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ProjectList from '../ProjectList/ProjectList';
 import ProjectGrid from '../ProjectGrid/ProjectGrid';
 import ProjectAside from '../ProjectAside/ProjectAside';
-import ReactCursorPosition from 'react-cursor-position'
+import ReactCursorPosition from 'react-cursor-position';
 import './ProjectMain.scss';
 
 class ProjectMain extends Component {
@@ -79,6 +79,7 @@ class ProjectMain extends Component {
 
   render() {
     const { gridX, gridY } = this.state;
+    const { data } = this.props;
     return (
       <div
         className="ProjectMain"
@@ -108,8 +109,8 @@ class ProjectMain extends Component {
         <ReactCursorPosition className="gridWrapper">
           <ProjectGrid mousePosition={this.gridMousePosition}/>
         </ReactCursorPosition>
-        <ProjectList data={this.props.data} />
-        <ProjectAside gridX={gridX} gridY={gridY} />
+        <ProjectList data={data} />
+        <ProjectAside gridX={gridX} gridY={gridY} data={data}/>
       </div>
     );
   }

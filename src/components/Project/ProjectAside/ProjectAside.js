@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Panel from '../../Common/Panel/Panel';
 import ProjectMap from '../ProjectMap/ProjectMap';
+import ProjectFilter from '../ProjectFilter/ProjectFilter';
 import styled from 'styled-components';
 import "./ProjectAside.scss";
 
@@ -10,7 +11,7 @@ class ProjectAside extends Component {
     return (
       <div className="ProjectAside">
         <Panel title="FILTER">
-          <h1>필터</h1>
+          <ProjectFilter />
         </Panel>
         <Panel title="CHARACTER">
           <Character gridX={gridX} gridY={gridY} />
